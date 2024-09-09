@@ -1,8 +1,11 @@
-# React + Vite
+# Formulario de Validación
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una aplicación web en React que presenta un formulario con los campos de Nombre, Apellido, DNI, y Email. La aplicación verifica que todos los campos se hayan completado antes de enviar el formulario. Utiliza HTML, CSS y React para el desarrollo.
 
-Currently, two official plugins are available:
+## Tecnologías Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: Biblioteca de JavaScript para construir interfaces de usuario.
+- **HTML**: Lenguaje de marcado para estructurar la aplicación.
+- **CSS**: Lenguaje de estilos para la presentación y diseño de la aplicación.
+## Para verlo
+https://9pacientedeveterinaria.netlify.app
