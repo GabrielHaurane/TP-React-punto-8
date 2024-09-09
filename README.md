@@ -8,4 +8,4 @@ Este proyecto es una aplicación web en React que presenta un formulario con los
 - **HTML**: Lenguaje de marcado para estructurar la aplicación.
 - **CSS**: Lenguaje de estilos para la presentación y diseño de la aplicación.
 ## Para verlo
-https://9pacientedeveterinaria.netlify.app
+https://8formulariosimple.netlify.app
